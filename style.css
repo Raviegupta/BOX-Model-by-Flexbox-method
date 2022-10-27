@@ -1,0 +1,37 @@
+
+*{
+    color: tomato;
+    font-size: 30px;  
+    width: 70%;
+    margin: auto; 
+    text-align: center;    
+}
+
+.head_Nav_menu{     
+   padding: 20px 0px;
+   border: 1px solid black;
+   background-color: aquamarine;   
+   margin: 10px;  
+}
+.cont {          
+    padding: 100px 0px 100px 0px;
+    border: 1px solid black;
+    background-color: aliceblue; 
+    width:30%;
+    margin:5px;
+}
+
+
+#main_cont{         
+    padding: 100px 25px 100px 25px;
+    border: 1px solid black;
+    background-color: blanchedalmond;
+}
+
+#cmc{
+    display:flex;
+    width:70%;
+    margin: 10px;
+    /* justify-content: space-between; */
+}
+
